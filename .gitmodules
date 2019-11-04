@@ -1,3 +1,9 @@
 [submodule "BIMERR_Building"]
 	path = BIMERR_Building
 	url = https://github.com/oeg-upm/BIMERR_Building.git
+	
+	
+[submodule "BIMERR_Material"]
+	path = BIMERR_Material
+	url = https://github.com/oeg-upm/BIMERR_Material.git
+	
