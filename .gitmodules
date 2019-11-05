@@ -11,3 +11,6 @@
 [submodule "bimerr-core"]
 	path = bimerr-core
 	url = https://github.com/oeg-upm/bimerr-core
+[submodule "bimerr-reality-capture"]
+	path = bimerr-reality-capture
+	url = https://github.com/oeg-upm/bimerr-reality-capture
