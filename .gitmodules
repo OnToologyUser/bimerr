@@ -1,10 +1,5 @@
 
-[submodule "BIMERR_GIS"]
-	path = BIMERR_GIS
-	url = https://github.com/oeg-upm/BIMERR_GIS
-[submodule "BIMERR_EnergyConsumption"]
-	path = BIMERR_EnergyConsumption
-	url = https://github.com/oeg-upm/BIMERR_EnergyConsumption
+
 [submodule "bimmer-building"]
 	path = bimmer-building
 	url = https://github.com/oeg-upm/bimmer-building
