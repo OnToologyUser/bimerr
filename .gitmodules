@@ -23,3 +23,6 @@
 [submodule "bimerr-energy-consumption"]
 	path = bimerr-energy-consumption
 	url = https://github.com/oeg-upm/bimerr-energy-consumption
+[submodule "bimerr-gis"]
+	path = bimerr-gis
+	url = https://github.com/oeg-upm/bimerr-gis
