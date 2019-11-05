@@ -20,3 +20,6 @@
 [submodule "bimerr-material"]
 	path = bimerr-material
 	url = https://github.com/oeg-upm/bimerr-material
+[submodule "bimerr-energy-consumption"]
+	path = bimerr-energy-consumption
+	url = https://github.com/oeg-upm/bimerr-energy-consumption
