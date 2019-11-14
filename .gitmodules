@@ -1,7 +1,7 @@
 
 
-[submodule "bimmer-building"]
-	path = bimmer-building
+[submodule "bimerr-building"]
+	path = bimerr-building
 	url = https://github.com/oeg-upm/bimerr-building
 [submodule "bimerr-core"]
 	path = bimerr-core
