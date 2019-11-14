@@ -21,3 +21,6 @@
 [submodule "bimerr-gis"]
 	path = bimerr-gis
 	url = https://github.com/oeg-upm/bimerr-gis
+[submodule "bimerr-building"]
+	path = bimerr-building
+	url = https://github.com/oeg-upm/bimerr-building
