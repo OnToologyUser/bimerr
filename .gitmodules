@@ -24,6 +24,3 @@
 [submodule "bimerr-building"]
 	path = bimerr-building
 	url = https://github.com/oeg-upm/bimerr-building
-[submodule "weather"]
-	path = weather
-	url = https://github.com/oeg-upm/weather
